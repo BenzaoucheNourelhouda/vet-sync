@@ -47,4 +47,4 @@ Python · Deep learning (segmentation and CNN classification) · Explainable AI
 - Testing in real farm conditions with veterinary feedback
 
 ## Contact
-[LinkedIn]((https://www.linkedin.com/in/nour-el-houda-benzaouche-48401a371/)) · nour339be@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nour-el-houda-benzaouche-48401a371/) · nour339be@gmail.com
